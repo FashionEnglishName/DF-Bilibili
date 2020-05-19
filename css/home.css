@@ -1,0 +1,24 @@
+.quickAccessContainer {
+	width: 80%;
+	margin: 30px auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.quickAccessContainer .video-card-common {
+	margin: 0 2rem;
+}
+
+.quickAccessContainer .close-button {
+	cursor: pointer;
+	position: absolute;
+	z-index: 20;
+	width: 20px;
+	height: 20px;
+	right: 8px;
+	top: 8px;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	text-align: center;
+	line-height: 20px;
+}

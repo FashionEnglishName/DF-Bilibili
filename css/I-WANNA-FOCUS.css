@@ -1,0 +1,5 @@
+.b-wrap, .international-footer, .mascot, #slide_ad,
+#reco_list, #right-bottom-banner, #live_recommand_report,
+.num, .contact-help {
+	display: none;
+}
